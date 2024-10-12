@@ -49,9 +49,10 @@ These commands will run the Cucumber tests with the specified configurations and
 - PdfReport
 - SparkReport
 
-Screenshot reports
-![Screenshoot](https://drive.google.com/file/d/1gIYZqwmuDv9F7G5SLS1EgdCzitTs3ikE)
-![Screenshoot](https://drive.google.com/file/d/1R74QYcCrykzIAVF1DpdX-7Y5LRywTeBR)
+Screenshot reports:
+
+![Screenshot](https://drive.google.com/file/d/1gIYZqwmuDv9F7G5SLS1EgdCzitTs3ikE)
+![Screenshot](https://drive.google.com/file/d/1R74QYcCrykzIAVF1DpdX-7Y5LRywTeBR)
 
 ### Info
 Only a few cases are automated due to time constraints.
