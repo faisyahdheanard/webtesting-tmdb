@@ -51,7 +51,7 @@ These commands will run the Cucumber tests with the specified configurations and
   
 2. [MANUAL] Manual Test/Image Result/Manual Test/Manual Test.pd 
 
-Screenshot reports:
+Screenshot reports from automation test:
 ![Screenshot](https://drive.google.com/uc?export=download&id=1gIYZqwmuDv9F7G5SLS1EgdCzitTs3ikE)
 ![Screenshot](https://drive.google.com/uc?export=download&id=1R74QYcCrykzIAVF1DpdX-7Y5LRywTeBR)
 
