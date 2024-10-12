@@ -50,8 +50,8 @@ These commands will run the Cucumber tests with the specified configurations and
 - SparkReport
 
 Screenshot reports
-![Screenshoot](https://drive.google.com/file/d/1gIYZqwmuDv9F7G5SLS1EgdCzitTs3ikE/view?usp=sharing)
-![Screenshoot](https://drive.google.com/file/d/1R74QYcCrykzIAVF1DpdX-7Y5LRywTeBR/view?usp=sharing)
+![Screenshoot](https://drive.google.com/file/d/1gIYZqwmuDv9F7G5SLS1EgdCzitTs3ikE)
+![Screenshoot](https://drive.google.com/file/d/1R74QYcCrykzIAVF1DpdX-7Y5LRywTeBR)
 
 ### Info
 Only a few cases are automated due to time constraints.
