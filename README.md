@@ -44,13 +44,14 @@ These commands will run the Cucumber tests with the specified configurations and
 
 
 ## Report path
-1. test-output (automation): 
+1. [AUTOMATION] test-output : 
 - CucumberReport
 - PdfReport
 - SparkReport
+  
+2. [MANUAL] Manual Test/Image Result/Manual Test/Manual Test.pd 
 
 Screenshot reports:
-
 ![Screenshot](https://drive.google.com/uc?export=download&id=1gIYZqwmuDv9F7G5SLS1EgdCzitTs3ikE)
 ![Screenshot](https://drive.google.com/uc?export=download&id=1R74QYcCrykzIAVF1DpdX-7Y5LRywTeBR)
 
